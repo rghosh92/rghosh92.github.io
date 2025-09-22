@@ -1,0 +1,37 @@
+title: "Rohan Ghosh"
+email: "ecerg92@nus.edu.sg"
+description: "Postdoctoral researcher in machine learning and information theory"
+url: "https://rghosh92.github.io"
+baseurl: ""  # Leave blank for user site
+
+
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "air"  # Try "mint", "dark", "contrast", etc.
+
+author:
+  avatar: /assets/images/profile.jpeg
+  bio: "Exploring the intersection of deep learning and information theory."
+
+
+markdown: kramdown
+highlighter: rouge
+
+social:
+  github: rghosh92
+  scholar: "https://scholar.google.com.sg/citations?user=xfZ2FRAAAAAJ&hl=en"
+
+
+gtag: "G-XXXXXXXXXX"  # Google Analytics tag
+
+
+# Enable custom styles
+sass:
+  sass_dir: _sass
+  style: compressed
+
+include:
+  - assets/css/main.scss
