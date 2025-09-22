@@ -16,4 +16,4 @@ My work explores the intersection of **machine learning**, **information theory*
 - Injecting Structural Inductive Biases in Tabular Data Learning
 
 ### Selected Publications
-Check out my [Publications]({{ site.baseurl }}/publications/) for recent papers and featured research.
+Check out my [Publications](/publications/) for recent papers and featured research.
