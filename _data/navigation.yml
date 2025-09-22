@@ -1,9 +1,9 @@
 main:
   - title: "Home"
-    url: /
+    url: "{{ site.baseurl }}/"
   - title: "Research"
-    url: /research/
+    url: "{{ site.baseurl }}/research/"
   - title: "Selected Publications"
-    url: /publications/
+    url: "{{ site.baseurl }}/publications/"
   - title: "Contact"
-    url: /contact/
+    url: "{{ site.baseurl }}/contact/"

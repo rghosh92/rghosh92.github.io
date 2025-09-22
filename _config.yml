@@ -13,7 +13,7 @@ plugins:
 minimal_mistakes_skin: "air"  # Try "mint", "dark", "contrast", etc.
 
 author:
-  avatar: /assets/images/profile.jpeg
+  avatar: "{{ site.baseurl }}/assets/images/profile.jpeg"
   bio: "Exploring the intersection of deep learning and information theory."
 
 

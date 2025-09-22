@@ -28,6 +28,6 @@ I explore the intersection of **machine learning**, **information theory**, and 
 
 ### Selected Publications
 
-For recent papers and featured research, visit my [Publications](/publications/) page.
+For recent papers and featured research, visit my [Publications]({{ site.baseurl }}/publications/)  page.
 
 ---
